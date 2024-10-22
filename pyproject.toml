@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "suomenlinna-traffic-predictor"
+version = "0.1.0"
+description = ""
+authors = ["gabikakol <gabriela.kakol@helsinki.fi>"]
+readme = "README.md"
+packages = [{include = "suomenlinna_traffic_predictor"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+invoke = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
