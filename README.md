@@ -1,7 +1,7 @@
 # Suomenlinna-Traffic-Predictor
 
 Project for the Introduction to Data Science (5cr) course at University of Helsinki. <br/>
-Authors: Chris Netto, Jing Cheng, Gabriela Kakol.  
+Authors: Chris Netto, Jing Cheng, Gabriela Kakol. 
 
 
 ## Instalation of the Program
