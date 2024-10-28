@@ -12,7 +12,7 @@ This repository contains the following sections:
 2. src - contains the code for the machine learning model and its predictions, as well as the code for the
    creation of the map for our website.
 3. The code for application
-4. The final HSL Suomenlinna planner report
+4. The final HSL Suomenlinna Ferry Predictor technical report
 
 ## Instalation of the Program
 
